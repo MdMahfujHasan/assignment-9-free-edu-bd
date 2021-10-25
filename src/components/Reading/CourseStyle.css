@@ -1,0 +1,22 @@
+.course-style h1{
+    color: white;
+    background-color: #000000cc;
+    width: 50%;
+    margin: auto;
+    border-radius: 30px;
+    margin-bottom: 20px;
+    padding-bottom: 5px;
+}
+.course-style img{
+    padding: 5px;
+    border: 1px solid black;
+    border-radius: 10px;
+    box-shadow: 7px 7px 15px gray;
+    margin-bottom: 10px;
+}
+.course-style{
+    background-color: #fdf0df;
+    width: 75%;
+    margin: auto;
+    padding: 20px;
+}

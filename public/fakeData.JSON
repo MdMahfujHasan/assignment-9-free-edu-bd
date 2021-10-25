@@ -1,0 +1,30 @@
+[
+    {
+        "key": "1",
+        "name": "Reading",
+        "duration": 45,
+        "price": 100,
+        "img": "https://cdn.dribbble.com/users/3942177/screenshots/10076498/book-reading_4x.jpg"
+    },
+    {
+        "key": "2",
+        "name": "Writing",
+        "duration": 23,
+        "price": 120,
+        "img": "https://previews.123rf.com/images/normaals/normaals1911/normaals191100081/145201479-writing-diary-vector-illustration-private-daily-events-reflection-in-flat-tiny-person-concept-open-m.jpg"
+    },
+    {
+        "key": "3",
+        "name": "Speaking",
+        "duration": 37,
+        "price": 110,
+        "img": "https://www.insperity.com/wp-content/uploads/public-speaking1200x600.png"
+    },
+    {
+        "key": "4",
+        "name": "Listening",
+        "duration": 50,
+        "price": 130,
+        "img": "https://media.istockphoto.com/illustrations/communicating-a-message-illustration-id165817944?k=20&m=165817944&s=612x612&w=0&h=9dgJArgpemXXg5bE8bOYumTeWWbHB2S5yU25Em2MoHI="
+    }
+]

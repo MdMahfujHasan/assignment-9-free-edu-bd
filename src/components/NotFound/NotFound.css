@@ -1,0 +1,19 @@
+.not-found{
+    display: flex;
+    padding: 50px;
+}
+.not-found-text{
+    margin: auto;
+    width: 30%;
+}
+.not-found-text h1{
+    font-size: 50px;
+    font-weight: 900;
+    color: blueviolet;
+}
+.not-found-text p{
+    color: #3a3a3a;
+}
+.not-found-img{
+    width: 70%;
+}

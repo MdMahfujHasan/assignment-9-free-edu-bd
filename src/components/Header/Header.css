@@ -1,0 +1,23 @@
+.logo{
+    padding-bottom: 10px;
+}
+.logo:hover:hover{
+    cursor: pointer;
+}
+.nav-bar{
+    background-color: black;
+}
+nav{
+    line-height: 43px;
+}
+nav a{
+    color: white;
+    text-decoration: none;
+    margin: 20px;
+    font-size: 20px;
+    padding: 10px;
+}
+nav a:hover{
+    background-color: lightgray;
+    color: black;
+}
